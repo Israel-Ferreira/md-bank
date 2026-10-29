@@ -1,0 +1,1 @@
+from src.agents.sup_agent import executar_supervisor

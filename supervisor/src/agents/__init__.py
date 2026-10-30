@@ -1,1 +1,1 @@
-from src.agents.sup_agent import executar_supervisor
+from src.agents.sup_agent import classifique_intencao_do_usuario

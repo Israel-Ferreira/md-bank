@@ -1,0 +1,1 @@
+from src.services.agent_service import executar_supervisor

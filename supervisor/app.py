@@ -5,7 +5,7 @@ from fastapi.responses import JSONResponse
 
 
 from src.schemas import ChatRequest
-from src.agents import executar_supervisor
+from src.services import executar_supervisor
 
 
 
